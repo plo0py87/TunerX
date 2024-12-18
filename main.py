@@ -1,3 +1,3 @@
-print("fuck,dsfsdf")
-print("iloveoyou")
-print(333333333333333333)
+
+print("fuck")
+
