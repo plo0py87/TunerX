@@ -1,1 +1,1 @@
-print("fuck,dsfsdf")
+print("fuck")
